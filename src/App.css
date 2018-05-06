@@ -1,3 +1,47 @@
+body {
+    background-color: crimson;
+
+}
 
 
+.app-title-row {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.app-title-col {
+    text-align: center;
+}
 
+.app-title {
+    color: white;
+}
+
+
+.pokemon-search-row {
+        
+}
+
+.pokemon-search-col {
+    text-align: center;
+}
+
+.pokemon-search-box {
+    margin: 5px;
+
+}
+
+.pokemon-search-button {
+    margin: 5px;
+}
+
+.pokemon-team-row {
+    margin: 10px;
+}
+
+.pokemon-team-col {
+    margin: 5px;
+}
+
+.pokemon-team-title {
+    
+}
